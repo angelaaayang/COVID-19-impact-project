@@ -1,0 +1,2 @@
+# COVID-19-impact-project
+We are interested in how the economy, measured by GDP, is affected differently across North American states/provinces due to the ongoing pandemic caused by the Covid-19 virus outbreak, and specifically, what factors might explain the difference in the decline of these economies. Thus, the main objective of this project is to seek for significant relationships between covariates and the extent of the economic downturn (denoted as \textit{GDP~drop}) in Canadian provinces and American states.
